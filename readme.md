@@ -15,7 +15,7 @@
 | **许隽、庞翔** | 报告撰写、README整理、问题分析与成果整合 |
 
 ## 三、GitHub 项目链接
-https://github.com/your-username/your-project-name
+https://github.com/pangxiang0223/ds2026-G5-T-B2fed-rate-global-asset-prices
 
 ## 四、核心研究问题回答
 
